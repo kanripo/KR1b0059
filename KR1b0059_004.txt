@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 尚書大傳
-#+DATE: 2015-09-23 09:36:22
+#+DATE: 2015-09-10 22:50:24.601438
+#+PROPERTY: ID KR1b0059
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 4
+#+PROPERTY: FILE SB01n0010-005尚書大傳-卷第五.
 <pb:KR1b0059_SBCK_004-1a>¶
 尙書大傳卷五¶
 　略說¶
@@ -362,4 +366,3 @@
 傳未審當在何篇抑或邢叔明記憶之誤與¶
 注灌是獻尸尸得獻乃祭酒以灌地也(皇侃論語義/疏八佾篇)¶
 <pb:KR1b0059_SBCK_004-19b>¶
-

@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 尚書大傳
-#+DATE: 2015-09-23 09:36:22
+#+DATE: 2015-09-10 22:50:24.462091
+#+PROPERTY: ID KR1b0059
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 1
+#+PROPERTY: FILE SB01n0010-002尚書大傳-卷第二.
 <pb:KR1b0059_SBCK_001-1a>¶
 尙書大傳卷二¶
 　虞夏傳¶
@@ -422,6 +426,8 @@
 ¶
 尙書大傳卷二　受業嘉應吳蘭修校¶
 <pb:KR1b0059_SBCK_001-21a>¶
+#+PROPERTY: JUAN 1
+#+PROPERTY: FILE SB01n0011-001尚書大傳序錄-卷第一.
 <pb:KR1b0059_SBCK_001-1a>¶
 尙書大傳卷一¶
 　　序錄¶
@@ -1356,6 +1362,8 @@
 <pb:KR1b0059_SBCK_001-46a>¶
 ¶
 尙書大傳卷一下　受業嘉應吳蘭修校¶
+#+PROPERTY: JUAN 1
+#+PROPERTY: FILE SB01n0012-001尚書大傳辨譌-一卷.
 <pb:KR1b0059_SBCK_001-47a>¶
 尙書大傳辨譌¶
 尙書大傳南宋時已多佚脫今坊間盛行盧氏雅雨¶
@@ -1467,4 +1475,3 @@
 文凡此皆舛繆之甚不可不亟正者也¶
 尙書大傳卷五　受業嘉應吳蘭修校¶
 <pb:KR1b0059_SBCK_001-52a>¶
-

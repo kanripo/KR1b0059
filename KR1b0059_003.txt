@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 尚書大傳
-#+DATE: 2015-09-23 09:36:22
+#+DATE: 2015-09-10 22:50:24.555341
+#+PROPERTY: ID KR1b0059
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 3
+#+PROPERTY: FILE SB01n0010-004尚書大傳-卷第四.
 <pb:KR1b0059_SBCK_003-1a>¶
 尙書大傳卷四¶
 大誥¶
@@ -536,4 +540,3 @@
 大夫有汙豬之宫殺君之地雖有美菜有義之士弗¶
 食(藝文&KR0011;聚八十二草部下/御覽九百七十六菜部一)¶
 尙書大傳卷四　受業嘉應吳蘭修校¶
-

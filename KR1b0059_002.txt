@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 尚書大傳
-#+DATE: 2015-09-23 09:36:22
+#+DATE: 2015-09-10 22:50:24.503844
+#+PROPERTY: ID KR1b0059
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 2
+#+PROPERTY: FILE SB01n0010-003尚書大傳-卷第三.
 <pb:KR1b0059_SBCK_002-1a>¶
 尙書大傳卷三¶
 　周&KR0019;¶
@@ -507,4 +511,3 @@
 <pb:KR1b0059_SBCK_002-24a>¶
 　同皆可疑也¶
 尙書大傳卷三　受業嘉應吳蘭修校¶
-

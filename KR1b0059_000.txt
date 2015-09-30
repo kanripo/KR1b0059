@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 尚書大傳
-#+DATE: 2015-09-23 09:36:22
+#+DATE: 2015-09-10 22:50:24.428578
+#+PROPERTY: ID KR1b0059
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 0
+#+PROPERTY: FILE SB01n0010-000尚書大傳-序.
 <pb:KR1b0059_SBCK_000-1a>¶
 　　尙書大傳定本序¶
 尙書大傳四十一篇見漢書藝文志鄭康成序謂出¶
@@ -67,4 +71,3 @@
 洪範之論班固本大傳㩜仲舒别向歆以傅春秋告¶
 往知來王事之表不可廢也是以錄漢書五行志附¶
 於後以備一家之學云東越陳壽祺¶
-
